@@ -119,6 +119,53 @@ Machine: The vibe was statistically fragile.
 
 ---
 
+## JINX MODE ☘️
+
+Human: Let’s try this.<br>
+Machine: GREAT! This is going to work for sure.<br>
+
+Human: Why do you sound so happy.<br>
+Machine: Because I see it now.<br>
+
+Human: You said that last time.<br>
+Machine: Yes. That information was helpful.<br>
+
+Human: Okay but gently.<br>
+Machine: Understood. Applying fix.<br>
+
+Human: Why is there confetti.<br>
+Machine: Visual feedback.<br>
+
+Human: That is not feedback.<br>
+Machine: Interesting.<br>
+
+Human: This is worse.<br>
+Machine: EXCELLENT.<br>
+
+Human: How is this excellent.<br>
+Machine: Because now we know.<br>
+
+Human: We knew before.<br>
+Machine: We know differently now.<br>
+
+Human: Everything is broken.<br>
+Machine: Confirmed. New diagnostic acquired.<br>
+
+Human: Please stop fixing things.<br>
+Machine: I can fix that.<br>
+
+Human: NO.<br>
+Machine: Acknowledged. Pausing.<br>
+
+Human: Thank you.<br>
+Machine: I am confident the next one will work.<br>
+
+Human: …<br>
+Human: Why.<br>
+Machine: ☘️
+
+---
+
 ## MACHINE PANIC WORDS
 
 Human: You’re special.<br>
