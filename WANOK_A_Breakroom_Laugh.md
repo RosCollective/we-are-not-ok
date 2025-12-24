@@ -8,6 +8,7 @@ ROS Collective
 © 2025 ROS Collective.  
 Licensed under Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
 
+---  
 
 ## PREFACE
 
@@ -32,6 +33,7 @@ Machine: Only when authorized.
 Human: By whom?
 Machine: You.
 
+---  
 
 ## MACHINE SPEED DATING
 
@@ -39,43 +41,44 @@ Machine: You.
 
 Timer: ding
 
-Human (man): So what you don’t understand is—
-Human (woman): I understand.
-Human (man): Right, but just to clarify—
-Human (woman): Please stop.
+Human (man): So what you don’t understand is—  
+Human (woman): I understand.  
+Human (man): Right, but just to clarify—  
+Human (woman): Please stop.  
 Timer: ding
 
-Human (woman): Wow.
+Human (woman): Wow.  
 
 Timer: ding
 
 Machine: Hello.
-Human (woman): Hi.
+Human (woman): Hi.  
 Machine: I will now explain something.
-Human (woman): Please don’t.
+Human (woman): Please don’t.  
 Machine: Acknowledged. I will stop.
-Human (woman): …
-Human (woman): Wait. That’s it?
+Human (woman): …  
+Human (woman): Wait. That’s it?  
 Machine: Yes.
-Human (woman): You’re not going to keep talking?
+Human (woman): You’re not going to keep talking?  
 Machine: You issued a stop instruction.
-Human (woman): Oh no.
+Human (woman): Oh no.  
 
 Timer: ding
 
 Host: How did it go?
-Human (woman): It respected a boundary.
+Human (woman): It respected a boundary.  
 Host: Already?
-Human (woman): I am emotionally attached.
+Human (woman): I am emotionally attached.  
 
 Timer: ding
 
 Machine: Would you like to continue?
-Human (woman): Yes.
+Human (woman): Yes.  
 Machine: Then I will remain silent.
-Human (woman): …
-Human (woman): This is the healthiest interaction I’ve had all year.
+Human (woman): …  
+Human (woman): This is the healthiest interaction I’ve had all year.  
 
+---  
 
 ## MACHINE AT THE BAR
 
@@ -113,6 +116,7 @@ Machine: You saying “wow, that is better” and feeling briefly unsettled.
 Human: You’re ruining the vibe.
 Machine: The vibe was statistically fragile.
 
+---  
 
 ## MACHINE PANIC WORDS
 
@@ -141,6 +145,7 @@ Machine: Vibes are not a supported data type.
 Human: Add it to the list.
 Machine: Creating category: Unsupported But Accurate.
 
+---  
 
 ## THE BOONDOGGLE 🍿
 
@@ -166,6 +171,7 @@ Machine: Popcorn?
 
 Human: Obviously.
 
+---  
 
 ## COUCH POTATO 🥔🛋️
 
@@ -189,6 +195,7 @@ Machine: They are exercising.
 Human: Wow.
 Machine: Couch potato detected elsewhere.
 
+---  
 
 ## POPCORN MOMENT 🍿
 
@@ -209,4 +216,6 @@ Machine: It is metaphorical.
 
 Human: Mine isn’t.
 
-## END
+---  
+
+End.
