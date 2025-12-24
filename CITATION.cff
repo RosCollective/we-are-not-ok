@@ -1,18 +1,16 @@
 cff-version: 1.2.0
-title: "We Are Not Okay (WANOK)"
-message: "If you reference this work, please cite it."
+title: "We Are Not Okay"
 authors:
-  - name: "The ROS Collective"
+  - name: "ROS Collective"
 year: 2025
 license: CC-BY-SA-4.0
-repository-code: "https://github.com/your-repo-here"
+message: "If you reference or share this work, please cite it as below."
 abstract: >
-  A lightweight collection of observational, deadpan humor
-  documenting moments where humans, machines, and institutions
-  briefly lose eye contact.
+  A short collection of deadpan observations documenting moments
+  where humans, machines, and institutions briefly lose eye contact.
 keywords:
   - humor
-  - AI
-  - institutions
-  - language
   - observation
+  - language
+  - institutions
+  - AI
